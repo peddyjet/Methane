@@ -33,4 +33,8 @@ This is a conversion of the Commodore Amiga game.
 
 Permission has been given by Apache Software Ltd to release this conversion of the game as GPL V2
 
-
+## Required Prerequisites
+- Vulkan Development Files (`libvulkan-dev` for debian-based systems)
+- ASLA Development Headers (`libasound2-dev` for debian-based systems)
+- X11 (`libx11-dev` for debian-based systems)
+- Xinerama (`libxinerama-dev` for debian-based systems)
